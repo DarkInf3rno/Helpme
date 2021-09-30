@@ -1,7 +1,8 @@
 //time.cpp to implement your class
 #include "time.hpp"
 #include <iostream>
-    
+#include <stdlib.h>
+#include <cstdlib>
    
          void TimeRange::setTimeRange(int inBeginHour, int inBeginMinute, int inEndHour, int inEndMinute) {
               
